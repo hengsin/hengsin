@@ -7,7 +7,7 @@
 	<artifactId>com.github.hengsin.idempiere.plugins</artifactId>
 	<version>${revision}</version>
 	<packaging>pom</packaging>
-	<name>Plugins for idempiere</name>
+	<name>Install plugins to iDempiere build</name>
 
 	<properties>
 		<revision>10.0.0-SNAPSHOT</revision>
