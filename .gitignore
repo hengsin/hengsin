@@ -1,4 +1,5 @@
 **/target/
 **/plugins/
 **/repository/
-
+/com.github.hengsin.sysconfig.init/idempiere_source.properties
+/dump_ad_sysconfig.properties
