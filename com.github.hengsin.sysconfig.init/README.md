@@ -14,6 +14,7 @@ OR
 |-- com.github.hengsin.sysconfig.init
 </pre>
 * If the above doesn't suite your local setup, create idempiere_source.properties file with IDEMPIERE_SOURCE=<absolute idempiere source path> line (for e.g IDEMPIERE_SOURCE=/home/hengsin/workspace/idempiere).
+* If you are using the idempiere_source.properties file approach, you can place the file at com.github.hengsin.sysconfig.init folder or its parent folder.
 * Run ./build.sh
 * Alternatively, you can set IDEMPIERE_SOURCE environment variable to idempiere source folder (for e.g export IDEMPIERE_SOURCE=/home/hengsin/workspace/idempiere) and run "mvn verify"
 

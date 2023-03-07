@@ -1,4 +1,4 @@
-echo "Publish jars in plugins to repository"
+echo "Publish jars in plugins to target/repository"
 
 mkdir -p target
 cd target
